@@ -18,7 +18,7 @@ https://manfra.netlify.app/
 
 Il existe de nombreuses plateformes de streaming de Manga, mais nous n'en avons pas trouvé une qui réponde à nos besoins, alors on a décidé de créer le front d'une plateforme de manga français.
 
-Bien sûr, il n'existe pas de modèle unique pour de plateforme, car les besoins de chacun peuvent être différents. 
+Bien sûr, il n'existe pas de modèle unique de plateforme, car les besoins de chacun peuvent être différents. 
 
 Merci à Bastien qui a contribué à ce projet ! [@bcalou](https://github.com/bcalou)
 
