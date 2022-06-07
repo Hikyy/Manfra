@@ -1,11 +1,33 @@
 # Manfra
 
-https://manfra.netlify.app/
+## Les participants au projet :
 
 | Personne            | Rôle                      | Github                                   | Linkedin                                                                               |
 | ------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
 | Mabrouki Rayane        | FrontEnd | [@Hikky](https://github.com/Hikyy) | [Mabrouki Rayane](https://linkedin.com/in/rayane-mabrouki/)                       |
-| SAINTE MARIE Jessica   | FrontEnd | [@JessicaMarieSainte](https://github.com/JessicaMarieSainte)   | [SAINTE MARIE Jessica](https://www.linkedin.com/in/jessica-marie-sainte/)          |
+| MARIE SAINTE Jessica   | FrontEnd | [@JessicaMarieSainte](https://github.com/JessicaMarieSainte)   | [MARIE JESSICA Jessica](https://www.linkedin.com/in/jessica-marie-sainte/)          |
 | LEMEY Alan | FrontEnd  | [@Koopacabana](https://github.com/Koopacabana) | [LEMEY Alan](https://www.linkedin.com/in/alan-lemey-b3449695/) |
 
 ---
+
+## Comment accéder au site
+
+https://manfra.netlify.app/
+
+## Présentation 
+
+Il existe de nombreuses plateformes de streaming de Manga, mais je n'en ai pas trouvé une qui réponde à mes besoins, alors on a décidé de créer le front d'une plateforme de manga français.
+
+Bien sûr, il n'existe pas de modèle unique pour de plateforme, car les besoins de chacun peuvent être différents. 
+
+Merci à Bastien qui a contribué à ce projet ! [@bcalou](https://github.com/bcalou)
+
+
+## Technologie
+
+Utilisation :
+- HTML & CSS, SASS, SCSS pour la structure et l'aspect visuel de la page.
+
+- Ajax pour effectuer une requête pour la récupération des données de l'API sans effectuer de rafraîchissement.
+
+- JavaScript pour traiter le contenu de la requête des mangas. L'aspect visuel et l'interaction des éléments cachés. La création de nouvelle bulle (div) à chaque nouveaux mangas.
