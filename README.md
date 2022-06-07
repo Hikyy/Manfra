@@ -30,4 +30,4 @@ Utilisation :
 
 - Ajax pour effectuer une requête pour la récupération des données de l'API sans effectuer de rafraîchissement.
 
-- JavaScript pour traiter le contenu de la requête des mangas. L'aspect visuel et l'interaction des éléments cachés. La création de nouvelle bulle (div) à chaque nouveaux mangas.
+- JavaScript pour traiter le contenu de la requête des mangas. L'aspect visuel et l'interaction des éléments cachés. La création de nouvelle bulle (div) à chaque nouveau manga.
