@@ -2,8 +2,6 @@
 
 https://manfra.netlify.app/
 
-# paint-en-mieux
-
 | Personne            | Rôle                      | Github                                   | Linkedin                                                                               |
 | ------------------- | ------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------- |
 | Mabrouki Rayane        | FrontEnd | [@Hikky](https://github.com/Hikky) | [Mabrouki Rayane](https://linkedin.com/in/rayane-mabrouki/)                       |
